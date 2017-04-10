@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\angel.h(64): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\mat.h(765): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\mat.h(766): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\mat.h(767): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\mat.h(788): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\mat.h(790): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\mat.h(793): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\mat.h(810): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\opengl\include\glui.h(868): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(68): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(92): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\monster\documents\visual studio 2015\projects\bunny\bunny\source.cpp(409): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  bunny.vcxproj -> C:\Users\MONSTER\Documents\Visual Studio 2015\Projects\bunny\Debug\bunny.exe
+  bunny.vcxproj -> C:\Users\MONSTER\Documents\Visual Studio 2015\Projects\bunny\Debug\bunny.pdb (Full PDB)
